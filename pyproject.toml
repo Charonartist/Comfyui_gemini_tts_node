@@ -1,0 +1,14 @@
+[project]
+name = "gemini_tts_node"
+description = "This custom node is a ComfyUI node for generating speech from text using the Gemini 2.5 Flash Preview TTS API."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Charonartist/Comfyui_gemini_tts_node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui_gemini_tts_node"
+Icon = ""
