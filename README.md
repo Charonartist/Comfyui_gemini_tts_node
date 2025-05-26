@@ -1,3 +1,5 @@
+まだ動きません
+
 # ComfyUI用Gemini TTS カスタムノード
 
 ## 概要
